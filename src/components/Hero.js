@@ -90,7 +90,7 @@ const Hero = () => {
             </motion.a>
 
             <motion.a
-              href="/resume.pdf"
+              href="https://drive.google.com/file/d/14RMVrGVXyRgDhnNnal7Ja_90ZtASfz0i/view?usp=drivesdk"
               className="btn btn-secondary"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
