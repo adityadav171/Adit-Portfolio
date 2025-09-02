@@ -138,7 +138,7 @@ const Hero = () => {
             <div className="image-container">
               <img 
                 src="/images/default-avatar.jpeg" 
-                alt="Adit Yadav Profile Photo"
+                alt="Adit Yadav"
                 className="avatar-image"
               />
               <div className="image-overlay"></div>
